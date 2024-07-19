@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336228952544",
+    "project_id": "creditopopular-da323",
+    "storage_bucket": "creditopopular-da323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336228952544:android:7ac59690a0245061406385",
+        "android_client_info": {
+          "package_name": "com.mycompany.creditopopular"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9gh4kS-RfT3Ck7-dKQFaqDnw9FFEU35A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

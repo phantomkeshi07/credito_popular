@@ -1,0 +1,1 @@
+ C:\\Users\\user\\Downloads\\credito\ popular\ 28\ 06\\credito_popular\\.dart_tool\\flutter_build\\0f3a823e87d2021271afcf3f5523f8b8\\native_assets.yaml: 

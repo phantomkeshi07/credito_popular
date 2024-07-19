@@ -1,0 +1,4 @@
+#Fri Jun 28 17:36:34 BRT 2024
+base.0=C\:\\Users\\user\\Downloads\\credito popular 28 06\\credito_popular\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
